@@ -1,11 +1,11 @@
-# RISC-V Processor Design
+# <font color="blue">RISC-V Processor Design</font>
 ================================
 
-## Overview
+## <font color="green">Overview</font>
 This project implements a RISC-V processor design using Verilog. The design includes a pipelined architecture with various components, including an Arithmetic Logic Unit (ALU), control unit, instruction memory, register file, and hazard unit.
 
-## Files
-### Processor Components
+## <font color="orange">Files</font>
+### <font color="purple">Processor Components</font>
 
 * **ALU.v**: 4-bit Arithmetic Logic Unit (ALU) performing arithmetic and logical operations.
 * **ALU_Decoder.v**: ALU Decoder translating operation codes to ALU control signals.
@@ -22,7 +22,7 @@ This project implements a RISC-V processor design using Verilog. The design incl
 * **Sign_Extend.v**: Sign Extension module used in instruction decoding.
 * **Writeback_Cycle.v**: Writeback Cycle module writing results back to registers.
 
-### Pipeline Stages
+### <font color="red">Pipeline Stages</font>
 
 The processor design consists of the following pipeline stages:
 
@@ -32,17 +32,19 @@ The processor design consists of the following pipeline stages:
 4. **Memory Access**: Accesses memory for load and store operations.
 5. **Writeback**: Writes results back to registers.
 
-## Usage
-### Simulation
+## <font color="yellow">Usage</font>
+### <font color="pink">Simulation</font>
 
 Use your preferred Verilog simulation tools (e.g., ModelSim, Vivado) to simulate the functionality of the processor.
 
-### Synthesis
+### <font color="teal">Synthesis</font>
 
 The modules can be synthesized for FPGA implementation using tools like Xilinx Vivado or Altera Quartus.
 
-## Note
+## <font color="gray">Note</font>
 This project is a RISC-V processor design implementation in Verilog. It is intended for educational and research purposes only.
+
+## <font color="blue">Images</font>
 ## Result 
 ![Picture1](https://github.com/user-attachments/assets/5aac79ed-8b34-46f5-9145-b733f9d5b3bb)
 

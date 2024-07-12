@@ -43,7 +43,7 @@ The modules can be synthesized for FPGA implementation using tools like Xilinx V
 
 ## Note
 This project is a RISC-V processor design implementation in Verilog. It is intended for educational and research purposes only.
-##Result 
+## Result 
 ![Picture1](https://github.com/user-attachments/assets/5aac79ed-8b34-46f5-9145-b733f9d5b3bb)
 
 ![Picture3](https://github.com/user-attachments/assets/42a1626e-c937-4b30-805f-05fbc44b69b8)

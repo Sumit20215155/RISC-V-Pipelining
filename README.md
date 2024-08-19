@@ -1,6 +1,7 @@
 # <font color="blue">RISC-V Processor Design</font>
 ================================
 
+
 ## <font color="green">Overview</font>
 This project implements a RISC-V processor design using Verilog. The design includes a pipelined architecture with various components, including an Arithmetic Logic Unit (ALU), control unit, instruction memory, register file, and hazard unit.
 
